@@ -1,0 +1,13 @@
+li{
+    text-decoration: double;
+    
+}
+table{
+    max-width: 80%;
+    margin-left: 10%;
+}
+img{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 100%;
+}
